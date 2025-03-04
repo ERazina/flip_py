@@ -6,7 +6,7 @@ from aiogram.filters import Command # type: ignore
 import logging
 
 # Указываем токен бота (замени на свой!)
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "7972940989:AAEXLLhcedRhzDDQr8eIKriINkblHgG9zLo"
 
 # Создаём бота и диспетчер
 bot = Bot(token=TOKEN)
